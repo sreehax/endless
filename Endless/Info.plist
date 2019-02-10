@@ -64,6 +64,8 @@
 	</array>
 	<key>CFBundleVersion</key>
 	<string>2501</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.social-networking</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>

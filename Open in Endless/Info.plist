@@ -20,6 +20,8 @@
 	<string>2.5</string>
 	<key>CFBundleVersion</key>
 	<string>2501</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.social-networking</string>
 	<key>NSExtension</key>
 	<dict>
 		<key>NSExtensionAttributes</key>
